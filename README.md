@@ -1,8 +1,18 @@
-# Projeto MyShop ReactJS
 
-Projeto desenvolvido durante o curso de Front-End em React da Ada Tech.
+# MyShop ReactJS
 
-# Linguagens utilizadas no projeto:
+**Descrição:**  
+O MyShop é uma aplicação de e-commerce desenvolvida durante o curso de Front-End em React da Ada Tech. A aplicação permite visualizar produtos, adicioná-los ao carrinho e realizar compras simuladas. O projeto foi feito para demonstrar a utilização de ReactJS, Redux, Styled Components, entre outras tecnologias.
+
+## 📚 Tecnologias Utilizadas
+
+- **ReactJS**: Biblioteca JavaScript para a construção da interface de usuário.
+- **Redux**: Gerenciamento de estado global da aplicação.
+- **Styled Components**: Biblioteca para escrever CSS dentro do JavaScript e criar componentes estilizados.
+- [ Fake Store API:]( https://fakestoreapi.com/)
+
+## 🖥️ Tecnologias e Linguagens
+
 <div align="center">
    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
   <img width="12" />
@@ -17,8 +27,11 @@ Projeto desenvolvido durante o curso de Front-End em React da Ada Tech.
   <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
   </div>
 
-# Tecnologias utilizadas:
-- [ Fake Store API: ]( https://fakestoreapi.com/)
-- Redux
-- Styled components
+## 🚀 Funcionalidades
+
+- Exibição de lista de produtos.
+- Adição de produtos ao carrinho de compras.
+- Visualização e remoção de itens no carrinho.
+- Simulação de uma compra simples.
+
 
